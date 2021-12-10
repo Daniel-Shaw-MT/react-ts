@@ -19,4 +19,4 @@ export const Label: React.FC<Props> = ({
     )
 }
 
-export default Label
+
