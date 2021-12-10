@@ -1,4 +1,4 @@
-# Getting Started with Create React App
+# Learning TS! Feel free to try my code out with the following scripts!
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
